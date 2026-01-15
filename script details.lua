@@ -1,6 +1,5 @@
 local ScriptDetails = {
     Patched = false,
-	Reason = "",
     Date = os.time({
 		year = 2026,
 		month = 1,
